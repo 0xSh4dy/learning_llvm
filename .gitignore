@@ -1,0 +1,5 @@
+.vscode
+*.so
+*.ll
+*.dot
+*.png
